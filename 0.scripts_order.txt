@@ -1,0 +1,10 @@
+## Order of RRBS analysis pipeline
+#Order	scripts
+1	run_fastqc.sh (batch)
+2	generate_scripts.sh & [sample]_trim.sh (batch)
+3	run_bwa_meth_indexing.sh
+4	generate_scripts.sh & [sample]_align.sh (batch)
+5	bismark_genome_index.sh
+6	generate_scripts.sh & [sample]_bismark.sh (batch)
+7	make_methylKit_objects.R & make_methylKit_objects.sh (batch)
+8	methyKit_DMRs_new_final_metadata.R & run_methyKit_DMRs.sh (batch)

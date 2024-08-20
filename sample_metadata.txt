@@ -1,0 +1,151 @@
+#path	#directory	sample_names	analysis_names	Plate Position	Experiment Name	Diet	WeekFrom	WeekTo	Sex	extra1	Tissue	Date	Index Primer well position	i7 Sequence	i5 Sequence
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_56	Coco_1-1-F_SF_Ileum_7_22_20_S83_L003	intestine_coco_1_1	E08	Coco 1-1-F SF Ileum 7/22/20	Coco	1	1	F	SF	Ileum	7/22/20	E8	TGGTAGCT	CAACACCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_57	Coco_1-3-F_SF_Ileum_7_22_20_S84_L003	intestine_coco_1_3	E09	Coco 1-3-F SF Ileum 7/22/20	Coco	1	3	F	SF	Ileum	7/22/20	E9	CAGTCCAA	GATTACCG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_77	Coco_1-5-F_SF_Ileum_8_5_20_S103_L003	intestine_coco_1_5	G05	Coco 1-5-F SF Ileum 8/5/20	Coco	1	5	F	SF	Ileum	5/8/20	G5	AGCACTTC	TTGGACGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS_2	EC-CM-6649_76	Coco_2-7-F_SF_Ileum_8_5_20_S3_L003	intestine_coco_2_7	G04	Coco 2-7-F SF Ileum 8/5/20	Coco	2	7	F	SF	Ileum	5/8/20	G4	ATCCGGTA	TATCGGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_61	Coco_3-1-M_SF_Ileum_7_23_20_S88_L003	intestine_coco_3_1.1	F01	Coco 3-1-M SF Ileum 7/23/20	Coco	3	1	M	SF	Ileum	7/23/20	F1	TTCCAAGG	CCTTGTAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_102	Coco_3-2-M_SF_Ileum_8_11_20_S126_L003	intestine_coco_3_2	A06	Coco 3-2-M SF Ileum 8/11/20	Coco	3	2	M	SF	Ileum	11/8/20	D2	GCTATCCT	CACCTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_68	Coco_3-3-M_SF_Ileum_8_4_20_S95_L003	intestine_coco_3_3.1	F08	Coco 3-3-M SF Ileum 8/4/20	Coco	3	3	M	SF	Ileum	4/8/20	F8	CGCAATCT	ATGCCTGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_93	Coco_3-4-M_SF_Ileum_8_11_20_S119_L003	intestine_coco_3_4	H09	Coco 3-4-M SF Ileum 8/11/20	Coco	3	4	M	SF	Ileum	11/8/20	H9	ACTCCATC	CCTTGATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_106	Coco_3-5-M_SF_Ileum_6_29_20_S54_L002	intestine_coco_3_5	A10	Coco 3-5-M SF Ileum 6/29/20	Coco	3	5	M	SF	Ileum	6/29/20	H2	ATCCAGAG	CGACGTTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_79	Coco_4-10-M_SF_Ileum_8_6_20_S105_L003	intestine_coco_4_10	G07	Coco 4-10-M SF Ileum 8/6/20	Coco	4	10	M	SF	Ileum	6/8/20	G7	CATACCAC	CGGTTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_83	Coco_4-6-M_SF_Ileum_8_7_20_S109_L003	intestine_coco_4_6	G11	Coco 4-6-M SF Ileum 8/7/20	Coco	4	6	M	SF	Ileum	7/8/20	A4	CCTTGATC	ACTCCATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_91	Coco_4-7-M_SF_Ileum_8_11_20_S117_L003	intestine_coco_4_7	H07	Coco 4-7-M SF Ileum 8/11/20	Coco	4	7	M	SF	Ileum	11/8/20	H7	GAAGTTGG	GTTGTTCG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_80	Coco_4-8-M_SF_Ileum_8_6_20_S106_L003	intestine_coco_4_8.1	G08	Coco 4-8-M SF Ileum 8/6/20	Coco	4	8	M	SF	Ileum	6/8/20	G8	GATGTGTG	CATGGCTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_1	Control_1-1-F_SF_Ileum_7_7_20_S1_L002	intestine_cont_1_1.1	A01	Control 1-1-F SF Ileum 7/7/20	Cont	1	1	F	SF	Ileum	7/7/20	A1	CTGATCGT	ATATGCGC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_15	Control_1-2-F_SF_Ileum_7_14_20_S14_L002	intestine_cont_1_2.1	B03	Control 1-2-F SF Ileum 7/14/20	Cont	1	2	F	SF	Ileum	7/14/20	B3	AACTGAGC	CCTGATTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_36	Control_1-4-F_SF_Ileum_7_20_20_S33_L002	intestine_cont_1_4.1	C12	Control 1-4-F SF Ileum 7/20/20	Cont	1	4	F	SF	Ileum	7/20/20	C12	CCTTGTAG	TTCCAAGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_94	Control_2-10-F_SF_Ileum_8_10_20_S120_L003	intestine_cont_2_10	H10	Control 2-10-F SF Ileum 8/10/20	Cont	2	10	F	SF	Ileum	10/8/20	H10	ATGCACGA	GACGATCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_58	Control_2-6-F_SF_Ileum_7_23_20_S85_L003	intestine_cont_2_6	E10	Control 2-6-F SF Ileum 7/23/20	Cont	2	6	F	SF	Ileum	7/23/20	E10	ACTAGGAG	GTGCCATA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_2	Control_3-1-M_SF_Ileum_7_2_20_S2_L002	intestine_cont_3_1	A02	Control 3-1-M SF Ileum 7/2/20	Cont	3	1	M	SF	Ileum	2/7/20	A2	CGGCTAAT	AGAACGAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_26	Control_3-5-M_SF_Ileum_7_7_20_S23_L002	intestine_cont_3_5.1	C02	Control 3-5-M SF Ileum 7/7/20	Cont	3	5	M	SF	Ileum	7/7/20	C2	GCAAGATC	CTTCGACT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_9	Control_4-8-M_SF_Ileum_7_8_20_S8_L002	intestine_cont_4_8.1	A09	Control 4-8-M SF Ileum 7/8/20	Cont	4	8	M	SF	Ileum	8/7/20	A9	CGCTCTAT	CGTTGCAA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_8	Fish_1-1-F_SF_Ileum_7_7_20_S7_L002	intestine_fish_1_1	A08	Fish 1-1-F SF Ileum 7/7/20	Fish	1	1	F	SF	Ileum	7/7/20	A8	ATGACGTC	GAAGGAAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_19	Fish_1-2-F_SF_Ileum_7_7_20_S18_L002	intestine_fish_1_2	B07	Fish 1-2-F SF Ileum 7/7/20	Fish	1	2	F	SF	Ileum	7/7/20	B7	AGTTCGTC	GATCGAGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_84	Fish_1-4-F_SF_Ileum_8_6_20_S110_L003	intestine_fish_1_4.1	G12	Fish 1-4-F SF Ileum 8/6/20	Fish	1	4	F	SF	Ileum	6/8/20	G12	TGGTACAG	ACTCTCGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_10	Fish_1-5-F_SF_Ileum_7_7_20_S9_L002	intestine_fish_1_5	A10	Fish 1-5-F SF Ileum 7/7/20	Fish	1	5	F	SF	Ileum	7/7/20	A10	GTTGACCT	AAGCACTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_90	Fish_2-10-F_SF_Ileum_8_6_20_S116_L003	intestine_fish_2_10	H06	Fish 2-10-F SF Ileum 8/6/20	Fish	2	10	F	SF	Ileum	6/8/20	H6	ACAGCTCA	GAGCAGTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_92	Fish_2-6-F_SF_Ileum_8_10_20_S118_L003	intestine_fish_2_6	H08	Fish 2-6-F SF Ileum 8/10/20	Fish	2	6	F	SF	Ileum	10/8/20	H8	GATTGCTC	GTGAAGTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_85	Fish_2-7-F_SF_Ileum_8_10_20_S111_L003	intestine_fish_2_7.1	H01	Fish 2-7-F SF Ileum 8/10/20	Fish	2	7	F	SF	Ileum	10/8/20	H1	ACGGAACA	GTTCTCGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_88	Fish_2-8-F_SF_Ileum_8_10_20_S114_L003	intestine_fish_2_8	H04	Fish 2-8-F SF Ileum 8/10/20	Fish	2	8	F	SF	Ileum	10/8/20	H4	CGTTGCAA	CGCTCTAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_39	Fish_3-2-M_SF_Ileum_7_15_20_S36_L002	intestine_fish_3_2	D03	Fish 3-2-M SF Ileum 7/15/20	Fish	3	2	M	SF	Ileum	7/15/20	D3	GTGCCATA	ACTAGGAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_40	Fish_3-3-M_SF_Ileum_7_18_20_S37_L002	intestine_fish_3_3	D04	Fish 3-3-M SF Ileum 7/18/20	Fish	3	3	M	SF	Ileum	7/18/20	D4	GATTACCG	CAGTCCAA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_107	Fish_3-4-M_SF_Ileum_6_29_20_S128_L003	intestine_fish_3_4	A11	Fish 3-4-M SF Ileum 6/29/20	Fish	3	4	M	SF	Ileum	6/29/20	A3	GACGATCT	ATGCACGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_32	Fish_3-5-M_SF_Ileum_7_15_20_S29_L002	intestine_fish_3_5.1	C08	Fish 3-5-M SF Ileum 7/15/20	Fish	3	5	M	SF	Ileum	7/15/20	C8	AGTGGATC	GTCATCGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_103	Fish_4-10-M_SF_Ileum_8_10_20_S127_L003	intestine_fish_4_10	A07	Fish 4-10-M SF Ileum 8/10/20	Fish	4	10	M	SF	Ileum	10/8/20	E2	TACGCTAC	ATCACACG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_46	Fish_4-6-M_SF_Ileum_7_21_20_S43_L002	intestine_fish_4_6	D10	Fish 4-6-M SF Ileum 7/21/20	Fish	4	6	M	SF	Ileum	7/21/20	D10	CACTAGCT	GAATCCGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_45	Fish_4-7-M_SF_Ileum_7_21_20_S42_L002	intestine_fish_4_7.1	D09	Fish 4-7-M SF Ileum 7/21/20	Fish	4	7	M	SF	Ileum	7/21/20	D9	ACGTTCAG	GCACAACT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_81	Fish_4-8-M_SF_Ileum_8_7_20_S107_L003	intestine_fish_4_8	G09	Fish 4-8-M SF Ileum 8/7/20	Fish	4	8	M	SF	Ileum	7/8/20	G9	CAATGTGG	GTCGAAGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_47	Fish_4-9-M_SF_Ileum_7_21_20_S44_L002	intestine_fish_4_9	D11	Fish 4-9-M SF Ileum 7/21/20	Fish	4	9	M	SF	Ileum	7/21/20	F3	TCGCTGTT	ACGACTTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_27	Keto_1-1-F_SF_Ileum_7_14_20_S24_L002	intestine_keto_1_1	C03	Keto 1-1-F SF Ileum 7/14/20	Keto	1	1	F	SF	Ileum	7/14/20	C3	CTTAGGAC	GTAGGAGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_29	Keto_1-2-F_SF_Ileum_7_14_20_S26_L002	intestine_keto_1_2.1	C05	Keto 1-2-F SF Ileum 7/14/20	Keto	1	2	F	SF	Ileum	7/14/20	C5	ATGCCTGT	CGCAATCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_31	Keto_1-3-F_SF_Ileum_7_14_20_S28_L002	intestine_keto_1_3.1	C07	Keto 1-3-F SF Ileum 7/14/20	Keto	1	3	F	SF	Ileum	7/14/20	C7	TTGCGAAG	AGCGTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_54	Keto_1-3-F_SF_Ileum_7_22_20_S81_L003	intestine_keto_1_3.2	E06	Keto 1-3-F SF Ileum 7/22/20	Keto	1	3	F	SF	Ileum	7/22/20	E6	GTTACGCA	ATCGCCAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_30	Keto_1-4-F_SF_Ileum_7_14_20_S27_L002	intestine_keto_1_4	C06	Keto 1-4-F SF Ileum 7/14/20	Keto	1	4	F	SF	Ileum	7/14/20	C6	ACTGAGGT	CTGTTGAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_82	Keto_1-5-F_SF_Ileum_8_6_20_S108_L003	intestine_keto_1_5.1	G10	Keto 1-5-F SF Ileum 8/6/20	Keto	1	5	F	SF	Ileum	6/8/20	G10	CCTGATTG	AACTGAGC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_55	Keto_2-10-F_SF_Ileum_7_22_20_S82_L003	intestine_keto_2_10	E07	Keto 2-10-F SF Ileum 7/22/20	Keto	2	10	F	SF	Ileum	7/22/20	E7	TGGCATGT	TGAAGACG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_65	Keto_2-6-F_SF_Ileum_8_4_20_S92_L003	intestine_keto_2_6	F05	Keto 2-6-F SF Ileum 8/4/20	Keto	2	6	F	SF	Ileum	4/8/20	F5	GTCATCGA	AGTGGATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_97	Keto_2-7-F_SF_Ileum_8_10_20_S50_L002	intestine_keto_2_7.1	A01	Keto 2-7-F SF Ileum 8/10/20	Keto	2	7	F	SF	Ileum	10/8/20	G1	CGCATGAT	TCAGGCTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_52	Keto_2-8-F_SF_Ileum_7_22_20_S79_L003	intestine_keto_2_8	E04	Keto 2-8-F SF Ileum 7/22/20	Keto	2	8	F	SF	Ileum	7/22/20	E4	GCACAACT	ACGTTCAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_16	Keto_3-2-M_SF_Ileum_7_14_20_S15_L002	intestine_keto_3_2.1	B04	Keto 3-2-M SF Ileum 7/14/20	Keto	3	2	M	SF	Ileum	7/14/20	B4	GTCGAAGA	CAATGTGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_28	Keto_3-3-M_SF_Ileum_7_14_20_S25_L002	intestine_keto_3_3	C04	Keto 3-3-M SF Ileum 7/14/20	Keto	3	3	M	SF	Ileum	7/14/20	C4	ACCACGAT	TTGCAGAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_53	Keto_3-5-M_SF_Ileum_7_22_20_S80_L003	intestine_keto_3_5	E05	Keto 3-5-M SF Ileum 7/22/20	Keto	3	5	M	SF	Ileum	7/22/20	E5	TGTGACTG	GATAGGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_108	Keto_4-6-M_SF_Ileum_6_29_20_S129_L003	intestine_keto_4_6	A12	Keto 4-6-M SF Ileum 6/29/20	Keto	4	6	M	SF	Ileum	6/29/20	B3	AACTGAGC	CCTGATTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_51	Keto_4-8-M_SF_Ileum_7_22_20_S48_L002	intestine_keto_4_8.1	E03	Keto 4-8-M SF Ileum 7/22/20	Keto	4	8	M	SF	Ileum	7/22/20	E3	GAATCCGA	CACTAGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_87	Keto_4-9-M_SF_Ileum_8_7_20_S113_L003	intestine_keto_4_9.1	H03	Keto 4-9-M SF Ileum 8/7/20	Keto	4	9	M	SF	Ileum	7/8/20	H3	AAGCACTG	GTTGACCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_14	Lard_1-1-F_SF_Ileum_7_13_20_S13_L002	intestine_lard_1_1	B02	Lard 1-1-F SF Ileum 7/13/20	Lard	1	1	F	SF	Ileum	7/13/20	B2	ATCGATCG	TGCTTCCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_18	Lard_1-2-F_SF_Ileum_7_13_20_S17_L002	intestine_lard_1_2	B06	Lard 1-2-F SF Ileum 7/13/20	Lard	1	2	F	SF	Ileum	7/13/20	B6	CGGTTGTT	CATACCAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_7	Lard_1-5-F_SF_Ileum_7_7_20_S6_L002	intestine_lard_1_5	A07	Lard 1-5-F SF Ileum 7/7/20	Lard	1	5	F	SF	Ileum	7/7/20	A7	GAGCAGTA	ACAGCTCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_17	Lard_2-10-F_SF_Ileum_7_13_20_S16_L002	intestine_lard_2_10	B05	Lard 2-10-F SF Ileum 7/13/20	Lard	2	10	F	SF	Ileum	7/13/20	B5	CATGGCTA	GATGTGTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_20	Lard_2-7-F_SF_Ileum_7_7_20_S19_L002	intestine_lard_2_7.1	B08	Lard 2-7-F SF Ileum 7/7/20	Lard	2	7	F	SF	Ileum	7/7/20	B8	TTGGACGT	AGCACTTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_6	Lard_2-8-F_SF_Ileum_7_7_20_S5_L002	intestine_lard_2_8	A06	Lard 2-8-F SF Ileum 7/7/20	Lard	2	8	F	SF	Ileum	7/7/20	A6	GTTGTTCG	GAAGTTGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_101	Lard_2-9-F_SF_Ileum_8_11_20_S125_L003	intestine_lard_2_9.1	A05	Lard 2-9-F SF Ileum 8/11/20	Lard	2	9	F	SF	Ileum	11/8/20	C2	GCAAGATC	CTTCGACT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_3	Lard_3-1-M_SF_Ileum_7_2_20_S76_L003	intestine_lard_3_1.1	A03	Lard 3-1-M SF Ileum 7/2/20	Lard	3	1	M	SF	Ileum	2/7/20	C3	CTTAGGAC	GTAGGAGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_5	Lard_3-3-M_SF_Ileum_7_2_20_S4_L002	intestine_lard_3_3	A05	Lard 3-3-M SF Ileum 7/2/20	Lard	3	3	M	SF	Ileum	2/7/20	A5	GTGAAGTG	GATTGCTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_4	Lard_3-5-M_SF_Ileum_7_2_20_S3_L002	intestine_lard_3_5	A04	Lard 3-5-M SF Ileum 7/2/20	Lard	3	5	M	SF	Ileum	2/7/20	A4	CCTTGATC	ACTCCATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_89	Lard_4-10-M_SF_Ileum_8_6_20_S115_L003	intestine_lard_4_10	H05	Lard 4-10-M SF Ileum 8/6/20	Lard	4	10	M	SF	Ileum	6/8/20	H5	GAAGGAAG	ATGACGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_12	Lard_4-6-M_SF_Ileum_7_13_20_S11_L002	intestine_lard_4_6	A12	Lard 4-6-M SF Ileum 7/13/20	Lard	4	6	M	SF	Ileum	7/13/20	A12	GTTCTCGT	ACGGAACA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_13	Lard_4-7-M_SF_Ileum_7_13_20_S12_L002	intestine_lard_4_7	B01	Lard 4-7-M SF Ileum 7/13/20	Lard	4	7	M	SF	Ileum	7/13/20	B1	ACTCTCGA	TGGTACAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_11	Lard_4-8-M_SF_Ileum_7_13_20_S10_L002	intestine_lard_4_8.1	A11	Lard 4-8-M SF Ileum 7/13/20	Lard	4	8	M	SF	Ileum	7/13/20	A11	CGACGTTA	ATCCAGAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_98	Lard_4-9-M_SF_Ileum_8_7_20_S51_L002	intestine_lard_4_9.1	A02	Lard 4-9-M SF Ileum 8/7/20	Lard	4	9	M	SF	Ileum	7/8/20	H1	ACGGAACA	GTTCTCGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_38	Milk_1-1-F_SF_Ileum_7_20_20_S35_L002	intestine_milk_1_1	D02	Milk 1-1-F SF Ileum 7/20/20	Milk	1	1	F	SF	Ileum	7/20/20	D2	GCTATCCT	CACCTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_70	Milk_1-5-F_SF_Ileum_8_4_20_S97_L003	intestine_milk_1_5	F10	Milk 1-5-F SF Ileum 8/4/20	Milk	1	5	F	SF	Ileum	4/8/20	F10	GTAGGAGT	CTTAGGAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_69	Milk_2-6-F_SF_Ileum_8_4_20_S96_L003	intestine_milk_2_6	F09	Milk 2-6-F SF Ileum 8/4/20	Milk	2	6	F	SF	Ileum	4/8/20	F9	TTGCAGAC	ACCACGAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_37	Milk_2-7-F_SF_Ileum_7_20_20_S34_L002	intestine_milk_2_7.1	D01	Milk 2-7-F SF Ileum 7/20/20	Milk	2	7	F	SF	Ileum	7/20/20	D1	GAGACGAT	TAACCGGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_41	Milk_2-8-F_SF_Ileum_7_20_20_S38_L002	intestine_milk_2_8	D05	Milk 2-8-F SF Ileum 7/20/20	Milk	2	8	F	SF	Ileum	7/20/20	D5	CAACACCT	TGGTAGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_71	Milk_2-9-F_SF_Ileum_8_4_20_S98_L003	intestine_milk_2_9	F11	Milk 2-9-F SF Ileum 8/4/20	Milk	2	9	F	SF	Ileum	4/8/20	F11	CTTCGACT	GCAAGATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_22	Milk_3-1-M_SF_Ileum_7_8_20_S21_L002	intestine_milk_3_1	B10	Milk 3-1-M SF Ileum 7/8/20	Milk	3	1	M	SF	Ileum	8/7/20	B10	CGTGTGTA	TTCGTTGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_23	Milk_3-4-M_SF_Ileum_7_8_20_S22_L002	intestine_milk_3_4	B11	Milk 3-4-M SF Ileum 7/8/20	Milk	3	4	M	SF	Ileum	8/7/20	B11	TACGCCTT	AGAGTAGC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_21	Milk_4-6-M_SF_Ileum_7_8_20_S20_L002	intestine_milk_4_6.1	B09	Milk 4-6-M SF Ileum 7/8/20	Milk	4	6	M	SF	Ileum	8/7/20	B9	TATCGGTC	ATCCGGTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_25	Milk_4-8-M_SF_Ileum_7_8_20_S78_L003	intestine_milk_4_8	C01	Milk 4-8-M SF Ileum 7/8/20	Milk	4	8	M	SF	Ileum	8/7/20	E3	GAATCCGA	CACTAGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_24	Milk_4-9-M_SF_Ileum_7_9_20_S77_L003	intestine_milk_4_9.1	B12	Milk 4-9-M SF Ileum 7/9/20	Milk	4	9	M	SF	Ileum	9/7/20	D3	GTGCCATA	ACTAGGAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_104	Olive_1-1-F_SF_Ileum_6_23_20_S52_L002	intestine_olive_1_1.1	A08	Olive 1-1-F SF Ileum 6/23/20	Olive	1	1	F	SF	Ileum	6/23/20	F2	TGGACTCT	CCGTAAGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_49	Olive_1-4-F_SF_Ileum_7_21_20_S46_L002	intestine_olive_1_4	E01	Olive 1-4-F SF Ileum 7/21/20	Olive	1	4	F	SF	Ileum	7/21/20	E1	CTTGTCGA	GAACATCG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_50	Olive_1-5-F_SF_Ileum_7_21_20_S47_L002	intestine_olive_1_5	E02	Olive 1-5-F SF Ileum 7/21/20	Olive	1	5	F	SF	Ileum	7/21/20	E2	TACGCTAC	ATCACACG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_64	Olive_2-10-F_SF_Ileum_7_23_20_S91_L003	intestine_olive_2_10	F04	Olive 2-10-F SF Ileum 7/23/20	Olive	2	10	F	SF	Ileum	7/23/20	F4	GCGTCATT	AACGTCTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_48	Olive_2-6-F_SF_Ileum_7_21_20_S45_L002	intestine_olive_2_6.1	D12	Olive 2-6-F SF Ileum 7/21/20	Olive	2	6	F	SF	Ileum	7/21/20	G3	TTCGTTGG	CGTGTGTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_62	Olive_2-7-F_SF_Ileum_7_23_20_S89_L003	intestine_olive_2_7.1	F02	Olive 2-7-F SF Ileum 7/23/20	Olive	2	7	F	SF	Ileum	7/23/20	F2	TGGACTCT	CCGTAAGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_63	Olive_2-8-F_SF_Ileum_7_23_20_S90_L003	intestine_olive_2_8	F03	Olive 2-8-F SF Ileum 7/23/20	Olive	2	8	F	SF	Ileum	7/23/20	F3	TCGCTGTT	ACGACTTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_105	Olive_2-9-F_SF_Ileum_6_19_20_S53_L002	intestine_olive_2_9	A09	Olive 2-9-F SF Ileum 6/19/20	Olive	2	9	F	SF	Ileum	6/19/20	G2	AGAGTAGC	TACGCCTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_33	Olive_3-2-M_SF_Ileum_7_15_20_S30_L002	intestine_olive_3_2.1	C09	Olive 3-2-M SF Ileum 7/15/20	Olive	3	2	M	SF	Ileum	7/15/20	C9	AACGTCTG	GCGTCATT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS_2	EC-CM-6649_60	Olive_3-3-M_SF_Ileum_7_23_20_S2_L003	intestine_olive_3_3.1	E12	Olive 3-3-M SF Ileum 7/23/20	Olive	3	3	M	SF	Ileum	7/23/20	E12	TAACCGGT	GAGACGAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_34	Olive_3-5-M_SF_Ileum_7_15_20_S31_L002	intestine_olive_3_5	C10	Olive 3-5-M SF Ileum 7/15/20	Olive	3	5	M	SF	Ileum	7/15/20	C10	ACGACTTG	TCGCTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_35	Olive_4-10-M_SF_Ileum_7_15_20_S32_L002	intestine_olive_4_10	C11	Olive 4-10-M SF Ileum 7/15/20	Olive	4	10	M	SF	Ileum	7/15/20	C11	CCGTAAGA	TGGACTCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_67	Olive_4-6-M_SF_Ileum_8_4_20_S94_L003	intestine_olive_4_6.1	F07	Olive 4-6-M SF Ileum 8/4/20	Olive	4	6	M	SF	Ileum	4/8/20	F7	CTGTTGAC	ACTGAGGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_75	Olive_4-8-M_SF_Ileum_8_5_20_S49_L002	intestine_olive_4_8	G03	Olive 4-8-M SF Ileum 8/5/20	Olive	4	8	M	SF	Ileum	5/8/20	H3	AAGCACTG	GTTGACCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_43	Palm_1-2-F_SF_Ileum_7_20_20_S40_L002	intestine_palm_1_2	D07	Palm 1-2-F SF Ileum 7/20/20	Palm	1	2	F	SF	Ileum	7/20/20	D7	ATCGCCAT	GTTACGCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_74	Palm_1-3-F_SF_Ileum_8_5_20_S101_L003	intestine_palm_1_3.1	G02	Palm 1-3-F SF Ileum 8/5/20	Palm	1	3	F	SF	Ileum	5/8/20	G2	AGAGTAGC	TACGCCTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_42	Palm_1-5-F_SF_Ileum_7_20_20_S39_L002	intestine_palm_1_5	D06	Palm 1-5-F SF Ileum 7/20/20	Palm	1	5	F	SF	Ileum	7/20/20	D6	TGAAGACG	TGGCATGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_44	Palm_2-10-F_SF_Ileum_7_20_20_S41_L002	intestine_palm_2_10	D08	Palm 2-10-F SF Ileum 7/20/20	Palm	2	10	F	SF	Ileum	7/20/20	D8	GATAGGCT	TGTGACTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_95	Palm_2-6-F_SF_Ileum_8_11_20_S121_L003	intestine_palm_2_6	H11	Palm 2-6-F SF Ileum 8/11/20	Palm	2	6	F	SF	Ileum	11/8/20	H11	AGAACGAG	CGGCTAAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_96	Palm_2-7-F_SF_Ileum_8_10_20_S122_L003	intestine_palm_2_7.1	H12	Palm 2-7-F SF Ileum 8/10/20	Palm	2	7	F	SF	Ileum	10/8/20	H12	ATATGCGC	CTGATCGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_78	Palm_2-8-F_SF_Ileum_8_6_20_S104_L003	intestine_palm_2_8.1	G06	Palm 2-8-F SF Ileum 8/6/20	Palm	2	8	F	SF	Ileum	6/8/20	G6	GATCGAGT	AGTTCGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_66	Palm_3-2-M_SF_Ileum_8_4_20_S93_L003	intestine_palm_3_2.1	F06	Palm 3-2-M SF Ileum 8/4/20	Palm	3	2	M	SF	Ileum	4/8/20	F6	AGCGTGTT	TTGCGAAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_73	Palm_3-3-M_SF_Ileum_8_5_20_S100_L003	intestine_palm_3_3	G01	Palm 3-3-M SF Ileum 8/5/20	Palm	3	3	M	SF	Ileum	5/8/20	G1	CGCATGAT	TCAGGCTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_72	Palm_3-4-M_SF_Ileum_8_5_20_S99_L003	intestine_palm_3_4	F12	Palm 3-4-M SF Ileum 8/5/20	Palm	3	4	M	SF	Ileum	5/8/20	F12	AACCGTTC	TGAGCTAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_100	Palm_3-5-M_SF_Ileum_8_7_20_S124_L003	intestine_palm_3_5	A04	Palm 3-5-M SF Ileum 8/7/20	Palm	3	5	M	SF	Ileum	7/8/20	B2	ATCGATCG	TGCTTCCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_99	Palm_4-10-M_SF_Ileum_8_7_20_S123_L003	intestine_palm_4_10	A03	Palm 4-10-M SF Ileum 8/7/20	Palm	4	10	M	SF	Ileum	7/8/20	A2	CGGCTAAT	AGAACGAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS_2	EC-CM-6649_59	Palm_4-6-M_SF_Ileum_7_23_20_S1_L003	intestine_palm_4_6	E11	Palm 4-6-M SF Ileum 7/23/20	Palm	4	6	M	NA	Ileum	NA	E11	CACCTGTT	GCTATCCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-CM-6649_86	Palm_4-8-M_SF_Ileum_8_7_20_S112_L003	intestine_palm_4_8	H02	Palm 4-8-M SF Ileum 8/7/20	Palm	4	8	M	SF	Ileum	7/8/20	H2	ATCCAGAG	CGACGTTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_7	COCO_2_6_F_S136_L003	liver_coco_2_6	A7	COCO_2_6_F	Coco	2	6	F	NA	liver	NA	D5	CAACACCT	TGGTAGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_8	COCO_3_1_M_S137_L003	liver_coco_3_1.2	A8	COCO_3_1_M	Coco	3	1	M	NA	liver	NA	A6	GTTGTTCG	GAAGTTGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_9	COCO_3_3_M_S138_L003	liver_coco_3_3.2	A9	COCO_3_3_M	Coco	3	3	M	NA	liver	NA	B6	CGGTTGTT	CATACCAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_10	COCO_4_8_M_S139_L003	liver_coco_4_8.2	A10	COCO_4_8_M	Coco	4	8	M	NA	liver	NA	C6	ACTGAGGT	CTGTTGAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_1	CONT_1_1_F_S130_L003	liver_cont_1_1.2	A1	CONT_1_1_F	Cont	1	1	F	NA	liver	NA	B4	GTCGAAGA	CAATGTGG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_4	CONT_1_2_F_S133_L003	liver_cont_1_2.2	A4	CONT_1_2_F	Cont	1	2	F	NA	liver	NA	A5	GTGAAGTG	GATTGCTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_6	CONT_1_4_F_S135_L003	liver_cont_1_4.2	A6	CONT_1_4_F	Cont	1	4	F	NA	liver	NA	C5	ATGCCTGT	CGCAATCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_3	CONT_3_5_M_S132_L003	liver_cont_3_5.2	A3	CONT_3_5_M	Cont	3	5	M	NA	liver	NA	D4	GATTACCG	CAGTCCAA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_5	CONT_4_6_M_S134_L003	liver_cont_4_6	A5	CONT_4_6_M	Cont	4	6	M	NA	liver	NA	B5	CATGGCTA	GATGTGTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_2	CONT_4_8_M_S131_L003	liver_cont_4_8.2	A2	CONT_4_8_M	Cont	4	8	M	NA	liver	NA	C4	ACCACGAT	TTGCAGAC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_13	FISH_1_3_F_S142_L003	liver_fish_1_3	B1	FISH_1_3_F	Fish	1	3	F	NA	liver	NA	B7	AGTTCGTC	GATCGAGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_14	FISH_1_4_F_S143_L003	liver_fish_1_4.2	B2	FISH_1_4_F	Fish	1	4	F	NA	liver	NA	C7	TTGCGAAG	AGCGTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_15	FISH_2_7_F_S144_L003	liver_fish_2_7.2	B3	FISH_2_7_F	Fish	2	7	F	NA	liver	NA	D7	ATCGCCAT	GTTACGCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_11	FISH_3_5_M_S140_L003	liver_fish_3_5.2	A11	FISH_3_5_M	Fish	3	5	M	NA	liver	NA	D6	TGAAGACG	TGGCATGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_12	FISH_4_7_M_S141_L003	liver_fish_4_7.2	A12	FISH_4_7_M	Fish	4	7	M	NA	liver	NA	A7	GAGCAGTA	ACAGCTCA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_17	KETO_1_2_F_S146_L003	liver_keto_1_2.2	B5	KETO_1_2_F	Keto	1	2	F	NA	liver	NA	B8	TTGGACGT	AGCACTTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_19	KETO_1_5_F_S148_L003	liver_keto_1_5.2	B7	KETO_1_5_F	Keto	1	5	F	NA	liver	NA	D8	GATAGGCT	TGTGACTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_21	KETO_2_7_F_S150_L003	liver_keto_2_7.2	B9	KETO_2_7_F	Keto	2	7	F	NA	liver	NA	B9	TATCGGTC	ATCCGGTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_16	KETO_3_2_M_S145_L003	liver_keto_3_2.2	B4	KETO_3_2_M	Keto	3	2	M	NA	liver	NA	A8	ATGACGTC	GAAGGAAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_18	KETO_4_8_M_S147_L003	liver_keto_4_8.2	B6	KETO_4_8_M	Keto	4	8	M	NA	liver	NA	C8	AGTGGATC	GTCATCGA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_20	KETO_4_9_M_S149_L003	liver_keto_4_9.2	B8	KETO_4_9_M	Keto	4	9	M	NA	liver	NA	A9	CGCTCTAT	CGTTGCAA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_23	LARD_2_7_F_S56_L002	liver_lard_2_7.2	B11	LARD_2_7_F	Lard	2	7	F	NA	liver	NA	F4	GCGTCATT	AACGTCTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_26	LARD_2_9_F_S59_L002	liver_lard_2_9.2	C2	LARD_2_9_F	Lard	2	9	F	NA	liver	NA	E5	TGTGACTG	GATAGGCT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_22	LARD_3_1_M_S55_L002	liver_lard_3_1.2	B10	LARD_3_1_M	Lard	3	1	M	NA	liver	NA	E4	GCACAACT	ACGTTCAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_24	LARD_4_8_M_S57_L002	liver_lard_4_8.2	B12	LARD_4_8_M	Lard	4	8	M	NA	liver	NA	G4	ATCCGGTA	TATCGGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_25	LARD_4_9_M_S58_L002	liver_lard_4_9.2	C1	LARD_4_9_M	Lard	4	9	M	NA	liver	NA	H4	CGTTGCAA	CGCTCTAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_29	MILK_1_3_F_S62_L002	liver_milk_1_3	C5	MILK_1_3_F	Milk	1	3	F	NA	liver	NA	H5	GAAGGAAG	ATGACGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_30	MILK_1_4_F_S63_L002	liver_milk_1_4	C6	MILK_1_4_F	Milk	1	4	F	NA	liver	NA	E6	GTTACGCA	ATCGCCAT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_31	MILK_2_7_F_S64_L002	liver_milk_2_7.2	C7	MILK_2_7_F	Milk	2	7	F	NA	liver	NA	F6	AGCGTGTT	TTGCGAAG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_27	MILK_4_6_M_S60_L002	liver_milk_4_6.2	C3	MILK_4_6_M	Milk	4	6	M	NA	liver	NA	F5	GTCATCGA	AGTGGATC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_28	MILK_4_9_M_S61_L002	liver_milk_4_9.2	C4	MILK_4_9_M	Milk	4	9	M	NA	liver	NA	G5	AGCACTTC	TTGGACGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_32	OLIVE_1_1_F_S65_L002	liver_olive_1_1.2	C8	OLIVE_1_1_F	Olive	1	1	F	NA	liver	NA	G6	GATCGAGT	AGTTCGTC
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_34	OLIVE_2_6_F_S67_L002	liver_olive_2_6.2	C10	OLIVE_2_6_F	Olive	2	6	F	NA	liver	NA	E7	TGGCATGT	TGAAGACG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_36	OLIVE_2_7_F_S69_L002	liver_olive_2_7.2	C12	OLIVE_2_7_F	Olive	2	7	F	NA	liver	NA	G7	CATACCAC	CGGTTGTT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_33	OLIVE_3_2_M_S66_L002	liver_olive_3_2.2	C9	OLIVE_3_2_M	Olive	3	2	M	NA	liver	NA	H6	ACAGCTCA	GAGCAGTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_35	OLIVE_3_3_M_S68_L002	liver_olive_3_3.2	C11	OLIVE_3_3_M	Olive	3	3	M	NA	liver	NA	F7	CTGTTGAC	ACTGAGGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_37	OLIVE_4_6_M_S70_L002	liver_olive_4_6.2	D1	OLIVE_4_6_M	Olive	4	6	M	NA	liver	NA	H7	GAAGTTGG	GTTGTTCG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_40	PALM_1_3_F_S73_L002	liver_palm_1_3.2	D4	PALM_1_3_F	Palm	1	3	F	NA	liver	NA	G8	GATGTGTG	CATGGCTA
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_42	PALM_2_7_F_S75_L002	liver_palm_2_7.2	D6	PALM_2_7_F	Palm	2	7	F	NA	liver	NA	E9	CAGTCCAA	GATTACCG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	_EC-ND-6821_41	PALM_2_8_F_S74_L002	liver_palm_2_8.2	D5	PALM_2_8_F	Palm	2	8	F	NA	liver	NA	H8	GATTGCTC	GTGAAGTG
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_39	PALM_3_2_M_S72_L002	liver_palm_3_2.2	D3	PALM_3_2_M	Palm	3	2	M	NA	liver	NA	F8	CGCAATCT	ATGCCTGT
+/mnt/grid/beyaz/hpc/home/data/meydan/Diet_RRBS	EC-ND-6821_38	PALM_4_M_S71_L002	liver_palm_4_0	D2	PALM_4__M	Palm	4	0	M	NA	liver	NA	E8	TGGTAGCT	CAACACCT
