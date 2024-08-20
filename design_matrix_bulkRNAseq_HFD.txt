@@ -1,0 +1,7 @@
+control_group	treatment_group	output_name
+control_NR	HFD_NR	HFD_NR_vs_control_NR
+control_NR	HFD_early	HFD_early_vs_control_NR
+control_NR	HFD_late	HFD_late_vs_control_NR
+HFD_NR	HFD_early	HFD_early_vs_HFD_NR
+HFD_NR	HFD_late	HFD_late_vs_HFD_NR
+HFD_early	HFD_late	HFD_late_vs_HFD_early
